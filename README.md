@@ -71,7 +71,7 @@ To get the project up and running locally on your machine, follow the steps belo
 ### Security:
 - Role-based access control ensures only managers can approve leave or manage employee accounts.
 - Passwords are securely hashed and session management is in place.
-
+<br>
 
 
 ## 3. Technologies Used
@@ -114,7 +114,7 @@ The project follows a modular structure to separate concerns for better maintain
 │   ├── manage_employee.html    # Employee management page
 │   ├── register.html           # Registration page
 ```
-
+<br>
 
 ## 5. Current Progress
 
@@ -137,7 +137,7 @@ The project follows a modular structure to separate concerns for better maintain
 - Start **Manage Employees Dashboard (#4)** to allow managers to create, view, and manage employee accounts.
 - Implement the **Leave Approval Dashboard (#9)** where managers can approve or reject leave requests.
 - Resolve overlapping leave requests by developing the **Handle Conflicts (#10)** feature, which ensures no double bookings.
-
+<br>
 
 
 ## 6. Running the Project
@@ -154,7 +154,7 @@ The project follows a modular structure to separate concerns for better maintain
 	   docker-compose up --build
 	 ```
 	This will build the necessary containers and start the application.
-
+<br>
 
 
 ## 7. Testing
@@ -164,7 +164,7 @@ To test the application:
 1. **Unit Tests**: We recommend writing unit tests for each module to ensure everything functions correctly. You can use the unittest or pytest framework.
 
 2. **Manual Testing**: Test the application manually by submitting leave requests, approving/rejecting them, and ensuring there are no conflicts.
-
+<br>
 
 
 ## 8. Contributing
