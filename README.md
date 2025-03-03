@@ -144,7 +144,7 @@ The project follows a modular structure to separate concerns for better maintain
 
 1. **Local Development**:
 
-   Follow the steps in the **Installation Instructions** section above to set up the environment and run the app locally.
+   Follow the steps in the **Installation Instructions**(#1-installation-instructions) section above to set up the environment and run the app locally.
 
 2. **Docker Setup**:
 
