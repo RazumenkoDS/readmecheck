@@ -171,7 +171,10 @@ To test the application:
 We welcome contributions! If you'd like to improve the project, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (git checkout -b feature/your-feature).
-3. Make your changes and commit them (git commit -am 'Add new feature').
-4. Push the changes (git push origin feature/your-feature).
-5. Submit a pull request.
+2. Create a new branch
+	```bash
+	   git checkout -b feature/your-feature
+	 ```
+5. Make your changes and commit them (git commit -am 'Add new feature').
+6. Push the changes (git push origin feature/your-feature).
+7. Submit a pull request.
