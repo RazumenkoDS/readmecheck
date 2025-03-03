@@ -150,7 +150,6 @@ The project follows a modular structure to separate concerns for better maintain
 
    To run the app in a containerized environment using Docker, use the following commands:
 	```bash
-	bash
 	   docker-compose up --build
 	 ```
 	This will build the necessary containers and start the application.
