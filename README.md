@@ -160,9 +160,9 @@ The project follows a modular structure to separate concerns for better maintain
 
 To test the application:
 
-1. **Unit Tests**: We recommend writing unit tests for each module to ensure everything functions correctly. You can use the unittest or pytest framework.
+1. **Unit Tests**: We recommend writing unit tests for each module to ensure everything functions correctly. You can use the unittest or pytest framework
 
-2. **Manual Testing**: Test the application manually by submitting leave requests, approving/rejecting them, and ensuring there are no conflicts.
+2. **Manual Testing**: Test the application manually by submitting leave requests, approving/rejecting them, and ensuring there are no conflicts
 <br>
 
 
@@ -170,11 +170,17 @@ To test the application:
 
 We welcome contributions! If you'd like to improve the project, please follow these steps:
 
-1. Fork the repository.
+1. Fork the repository
 2. Create a new branch
 	```bash
 	   git checkout -b feature/your-feature
 	 ```
-5. Make your changes and commit them (git commit -am 'Add new feature').
-6. Push the changes (git push origin feature/your-feature).
-7. Submit a pull request.
+5. Make your changes and commit them
+	```bash
+	   git commit -am 'Add new feature'
+	 ```
+7. Push the changes
+	```bash
+	   git push origin feature/your-feature
+	 ```
+9. Submit a pull request
