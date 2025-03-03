@@ -12,10 +12,10 @@ This project is a web-based application designed to help employees submit and ma
 [6. Running the Project](#6-running-the-project)  
 [7. Testing](#7-testing)  
 [8. Contributing](#8-contributing)
-<br><br>
+<br>
 
 
-## 1. Installation Instructions<br><br>
+## 1. Installation Instructions
 
 To get the project up and running locally on your machine, follow the steps below:
 
@@ -48,7 +48,7 @@ To get the project up and running locally on your machine, follow the steps belo
    
 6. **Visit the application**
 	Open your browser and navigate to http://127.0.0.1:5000/.
-	
+<br>	
 	
 	
 ## 2. Features<br>
