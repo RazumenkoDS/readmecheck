@@ -15,7 +15,7 @@ This project is a web-based application designed to help employees submit and ma
 <br>
 
 
-## 1. Installation Instructions
+## 1. Installation Instructions 
 
 To get the project up and running locally on your machine, follow the steps below:
 
