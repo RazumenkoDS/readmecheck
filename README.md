@@ -2,7 +2,7 @@
 
 This project is a web-based application designed to help employees submit and manage their annual leave requests, while allowing managers to approve or reject leave applications. The system also prevents overlapping leave requests and tracks leave balances.
 
-## Table of Contents<br>
+## Table of Contents<br><br>
 
 [1. Installation Instructions](#1-installation-instructions)  
 [2. Features](#2-features)  
@@ -15,7 +15,7 @@ This project is a web-based application designed to help employees submit and ma
 
 
 
-## 1. Installation Instructions<br>
+## 1. Installation Instructions<br><br>
 
 To get the project up and running locally on your machine, follow the steps below:
 
@@ -51,7 +51,7 @@ To get the project up and running locally on your machine, follow the steps belo
 	
 	
 	
-## 2. Features
+## 2. Features<br>
 
 ### User Management:
 - Managers can create employee accounts, assign roles, and manage users.
