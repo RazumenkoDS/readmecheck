@@ -4,15 +4,15 @@ This project is a web-based application designed to help employees submit and ma
 
 ## Table of Contents
 
-[1. Installation Instructions](#1-installation-instructions) 
-[2. Environment Variables Configuration](#2-Environment-Variables-Configuration) 
+[1. Installation Instructions](#1-installation-instructions)  
+[2. Environment Variables Configuration](#2-environment-variables-configuration)  
 [3. Features](#3-features)  
 [4. Technologies Used](#4-technologies-used)  
 [5. Project Structure](#5-project-structure)  
 [6. Current Progress](#6-current-progress)  
 [7. Running the Project](#7-running-the-project)  
 [8. Testing](#8-testing)  
-[9. Contributing](#9-contributing)
+[9. Contributing](#9-contributing)  
 <br>
 
 
