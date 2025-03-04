@@ -49,8 +49,33 @@ To get the project up and running locally on your machine, follow the steps belo
    
 6. **Visit the application**
 	Open your browser and navigate to http://127.0.0.1:5000/
-	
-	
+
+## 2. Environment Variables Configuration
+### Environment Variables
+
+Before running the project, you will need to configure some environment variables. These values are used for email setup, authentication, and other configurations. The environment variables should be defined in a `.env` file or set directly in your environment.
+
+#### **List of Required Environment Variables:**
+```env
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USERNAME=your_email@gmail.com
+SMTP_PASSWORD=your_email_password
+SEND_EMAIL=True
+```
+
+#### **Explanation of the Variables:**
+- **`SMTP_SERVER`** → The SMTP server address used for sending emails (`smtp.gmail.com` for Gmail).
+- **`SMTP_PORT`** → The port number used for SMTP communication (`587` for TLS).
+- **`SMTP_USERNAME`** → The email address used for sending emails.
+- **`SMTP_PASSWORD`** → The password or app-specific password for the sender's email account.
+- **`SEND_EMAIL`** → A boolean value (`True` or `False`) that controls email sending:
+  - `True` → Emails will be sent as expected.
+  - `False` → Email sending will be **skipped**, and the manager's password will be shown instead (useful for development).
+<br>
+
+
+
 ## 3. Features<br>
 
 ### User Management
