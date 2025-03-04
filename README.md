@@ -29,8 +29,8 @@ To get the project up and running locally on your machine, follow the steps belo
 2. **Set up a Python virtual environment**
 
    ```bash
-   git clone https://github.com/yourusername/annual-leave-planner.git
-   cd annual-leave-planner
+   python3 -m venv venv
+   source venv/bin/activate  # For Windows, use `venv\Scripts\activate`
    ```
    
 3. **Install dependencies**
@@ -47,8 +47,7 @@ To get the project up and running locally on your machine, follow the steps belo
    ```
    
 6. **Visit the application**
-	Open your browser and navigate to http://127.0.0.1:5000/.
-<br>	
+	Open your browser and navigate to http://127.0.0.1:5000/
 	
 	
 ## 2. Features<br>
